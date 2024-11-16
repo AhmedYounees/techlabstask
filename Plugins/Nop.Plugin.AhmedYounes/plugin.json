@@ -1,0 +1,13 @@
+﻿{
+  "Group": "API",
+  "FriendlyName": "CRM Integration",
+  "SystemName": "API.CRM",
+  "Version": "1.00",
+  "SupportedVersions": [
+    "4.70"
+  ],
+  "Author": "ahmed Younes",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.API.CRM.dll",
+  "Description": "This plugin integrates NopCommerce with Microsoft Dynamics CRM for customer synchronization."
+}
